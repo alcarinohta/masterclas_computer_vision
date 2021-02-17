@@ -1,5 +1,5 @@
-# Masterclass Visão Computacional
+# Computer Vision Masterclass
 ## Filter App
 
-### Descrição
-O primeiro projeto da Masterclass de Visão Computacional do Sigmoidal.ai, é um app simples para adicionar uma imagem e aplicar diferentes filtros. A aplicação é construída utilizando o Streamlit, e o processamento das imagens e aplicação de filtros utiiza das bibliotecas Open-CV e Pillow (PIL).
+### Description
+First project of Computer Vision Masterclass from Sigmoidal.ai. It is a simples app to add an image and apply different filters. The app is built with Streamlit, and the image processing and filters uses Open-CV and Pillow (PIL) libraries.
